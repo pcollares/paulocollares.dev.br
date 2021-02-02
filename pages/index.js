@@ -13,8 +13,8 @@ export default function Home() {
         <h1 className={styles.title}>
          Paulo Collares
         </h1>
-
-       
+        Analista de sistemas
+       </main>
 
     </div>
   )
