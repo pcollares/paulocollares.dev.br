@@ -5,7 +5,7 @@ import matter from 'gray-matter'
 import Image from 'next/image'
 
 type HomeProps = {
-  content: String;
+  content: string;
 };
 
 export default function Home({ content }: HomeProps) {
