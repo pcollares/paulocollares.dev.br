@@ -58,3 +58,7 @@ Profissional de TI com vasta experiência no desenvolvimento de sistemas em Java
 - [Twitter](https://twitter.com/pcollares)
 - [Linkedin](https://br.linkedin.com/in/pcollares)
 - [Github](https://github.com/pcollares)
+
+# Código fonte
+
+Este site foi desenvolvido com Next.js, o código fonte está disponível em [github.com/pcollares/paulocollares.dev.br](https://github.com/pcollares/paulocollares.dev.br)

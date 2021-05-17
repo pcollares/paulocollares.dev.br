@@ -5,7 +5,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="shortcut icon" href='/favicon.ico' type='image/png' />
+          <link rel="shortcut icon" href='/favicon.png' type='image/png' />
 
           <script
             async
