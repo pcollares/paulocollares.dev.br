@@ -58,7 +58,7 @@ export const getStaticProps: GetStaticProps = async () => {
   
   # Experiência
   
-    OBS: Por motivos de provacidade irei omitir o nome das instituições e empresas
+    OBS: Por motivos de privacidade irei omitir o nome das instituições e empresas
   
   ## Analista de sistemas em um orgão público (desde 2012)
   
@@ -98,6 +98,7 @@ export const getStaticProps: GetStaticProps = async () => {
   - [Twitter](https://twitter.com/pcollares)
   - [Linkedin](https://br.linkedin.com/in/pcollares)
   - [Github](https://github.com/pcollares)
+  - [Alura](https://cursos.alura.com.br/user/pcollares)
   
   # Código fonte
   
